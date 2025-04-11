@@ -42,12 +42,14 @@ This application recreates the classic Connect Four game where players take turn
 
 ### Setup and Running
 
-1. Download the MARS simulator from [Missouri State University](http://courses.missouristate.edu/kenvollmar/mars/)
+1. Download the MARS simulator from [Missouri State University](https://computerscience.missouristate.edu/mars-mips-simulator.htm)
 
 2. Open MARS and load all .asm files
+
    `File -> Open -> Select all .asm files`
 
 3. Assemble the program
+
    `Run -> Assemble`
 
 4. Configure the bitmap display:
@@ -62,6 +64,7 @@ This application recreates the classic Connect Four game where players take turn
 - Click "Connect to MIPS"
 
 6. Run the program:
+
    `Run -> Go`
 
 7. Use the following controls to play:
@@ -102,11 +105,11 @@ This application recreates the classic Connect Four game where players take turn
 
 ## 👥 Contributors
 
-This application was developed by a team of four:
-- [Your Name](https://github.com/yourusername)
-- [Team Member 2](https://github.com/teammember2)
-- [Team Member 3](https://github.com/teammember3)
-- [Team Member 4](https://github.com/teammember4)
+This application was developed by a team of four developers:
+- [Sharv Utpat](https://github.com/sutpat1)
+- [William Lamparter]()
+- [Anna Ernst]()
+- [Vijay Karthikeyaraja]()
 
 ---
 
