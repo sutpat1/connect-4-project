@@ -107,9 +107,9 @@ This application recreates the classic Connect Four game where players take turn
 
 This application was developed by a team of four developers:
 - [Sharv Utpat](https://github.com/sutpat1)
-- [William Lamparter]()
-- [Anna Ernst]()
-- [Vijay Karthikeyaraja]()
+- [William Lamparter]
+- [Anna Ernst]
+- [Vijay Karthikeyaraja]
 
 ---
 
